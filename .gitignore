@@ -1,6 +1,5 @@
 node_modules/
 __pycache__/
 .env
-logs.json
 dist/
 .vscode/
